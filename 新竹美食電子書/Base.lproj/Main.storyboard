@@ -22,12 +22,12 @@
                     </tabBar>
                     <connections>
                         <segue destination="nrn-lw-4Iz" kind="relationship" relationship="viewControllers" id="eLi-Pz-cDJ"/>
-                        <segue destination="AxY-9Q-p0t" kind="relationship" relationship="viewControllers" id="qm3-Bo-6ls"/>
+                        <segue destination="AxY-9Q-p0t" kind="relationship" relationship="viewControllers" id="m0C-Fj-dSN"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UrW-RD-jXn" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1303" y="1447"/>
+            <point key="canvasLocation" x="-1215" y="1986"/>
         </scene>
         <!--Table View Controller-->
         <scene sceneID="xlF-WY-UTa">
@@ -122,7 +122,6 @@
                                                                     </connections>
                                                                 </button>
                                                             </subviews>
-                                                            <viewLayoutGuide key="safeArea" id="8rn-YV-D74"/>
                                                             <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                         </view>
                                                     </subviews>
@@ -175,7 +174,7 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
-                                        <integer key="value" value="10"/>
+                                        <integer key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
@@ -217,11 +216,9 @@
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="bqB-vx-ziB"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="L4d-4E-Jcv"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="x6q-Rk-gob"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="mAD-WT-hdK"/>
                                 <userDefinedRuntimeAttributes>
@@ -247,7 +244,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="M4s-53-iGX"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="jRm-s5-npB">
@@ -259,15 +255,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="iEB-PN-jL7"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="Le9-Pw-8Fd"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="Ehe-LL-Fcv"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="oaZ-cv-iNY"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="tPT-Ur-Dmg"/>
                                 <userDefinedRuntimeAttributes>
@@ -293,7 +286,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="map-xp-oAM"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="JHF-mI-pUR">
@@ -305,15 +297,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="FEN-27-hqe"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="cmw-IJ-8sK"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="yIB-Qb-utU"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="fwU-sv-RF9"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="yae-yn-vX9"/>
                                 <userDefinedRuntimeAttributes>
@@ -339,7 +328,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="SD2-8b-w2b"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wYR-Dy-SJi">
@@ -351,15 +339,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="GIZ-9G-5Uf"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="XlC-VM-fEl"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="oZR-Vv-e8q"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="Pws-Qu-Yse"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="8kf-fn-mat"/>
                                 <userDefinedRuntimeAttributes>
@@ -385,7 +370,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="2m5-jq-n2L"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gwr-Iy-egc">
@@ -397,15 +381,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="LtQ-zb-aeS"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="TeW-Pn-1U4"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="EEy-cF-Juq"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="1LR-uV-ZYj"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="Eug-1O-GQ6"/>
                                 <userDefinedRuntimeAttributes>
@@ -431,7 +412,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="7pR-E3-5Se"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zsh-bq-OMl">
@@ -443,15 +423,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Jpg-iT-wy1"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="eHh-3P-HXf"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="khJ-gE-LW5"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="dFE-9G-TL0"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="BHk-z3-Rn4"/>
                                 <userDefinedRuntimeAttributes>
@@ -477,7 +454,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="hKo-xv-VHG"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="q7C-aF-4PW">
@@ -489,15 +465,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="vaf-1p-hQv"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="eev-5c-tBk"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="WNZ-dt-pgW"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="2xt-yj-hvg"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="49E-9N-EQh"/>
                                 <userDefinedRuntimeAttributes>
@@ -523,7 +496,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="3Ug-RK-Y3o"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RAX-wt-0Z8">
@@ -535,15 +507,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="OBd-1M-jID"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="8Fz-2c-4fT"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="4Hm-Ph-7rD"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="tcH-F0-Kik"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="B5h-Vi-1Xc"/>
                                 <userDefinedRuntimeAttributes>
@@ -569,7 +538,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="0UF-f9-5Ub"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1zT-S2-HJt">
@@ -581,15 +549,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="kW6-mc-L8Y"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="JgL-ks-JuH"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="hc9-32-20J"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="KWG-4C-0qx"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="sEj-5q-DjD"/>
                                 <userDefinedRuntimeAttributes>
@@ -639,7 +604,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="fRb-lU-Bwh"/>
+                        <viewLayoutGuide key="safeArea" id="Cgu-yt-k38"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -757,7 +722,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="CA0-ek-ztp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="471" y="1986"/>
+            <point key="canvasLocation" x="-187" y="2704"/>
         </scene>
         <!--推薦餐廳-->
         <scene sceneID="JuN-Zc-G0B">
@@ -795,7 +760,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="63r-Bf-sDS" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-244" y="1986"/>
+            <point key="canvasLocation" x="-854" y="2704"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="uLt-bw-Ehh">
@@ -815,7 +780,7 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
-                                        <integer key="value" value="10"/>
+                                        <integer key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
@@ -843,7 +808,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="FZu-gk-nFX"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="L7J-oc-Dj3">
@@ -855,15 +819,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="eYD-D2-D4G"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="nGs-lX-Kkx"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="r1K-WW-6ul"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="C8W-Ku-zhV"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="zg2-pY-8hD"/>
                                 <userDefinedRuntimeAttributes>
@@ -889,7 +850,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="gw1-36-FO3"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fdJ-CW-3xy">
@@ -901,15 +861,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="jZq-2Q-Gx4"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="2cl-hd-Eye"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="gi9-8L-FkW"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="NU2-JK-h7B"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="gpc-ZY-4PS"/>
                                 <userDefinedRuntimeAttributes>
@@ -935,7 +892,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="TF4-43-JqL"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hBy-ps-tJa">
@@ -947,15 +903,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="qsK-le-aJe"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="lqw-mG-OII"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="0uL-eU-qSR"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="7Y2-7F-A8a"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="Qfl-RD-K4V"/>
                                 <userDefinedRuntimeAttributes>
@@ -981,7 +934,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Wp6-ql-sMS"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Zdi-bK-URx">
@@ -993,15 +945,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="vQn-0s-r0K"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="ReK-zX-RBA"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="b3r-Jx-5WY"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="LvS-zf-vkG"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="pQa-sO-ILs"/>
                                 <userDefinedRuntimeAttributes>
@@ -1027,7 +976,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="lEU-Nc-eWa"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rYJ-Vu-gw7">
@@ -1039,15 +987,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="InY-Md-6rc"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="x1F-GD-X0i"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="jJs-cx-9yX"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="ZGj-5r-WWq"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="1O7-AL-19L"/>
                                 <userDefinedRuntimeAttributes>
@@ -1073,7 +1018,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="DtL-fc-3SD"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="JOI-Il-3gR">
@@ -1085,15 +1029,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="5Ag-Pz-65w"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="yzA-al-Mcl"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="aKF-6q-Yic"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="OWK-qQ-Aft"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="6tq-Xe-j9s"/>
                                 <userDefinedRuntimeAttributes>
@@ -1119,7 +1060,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="g0d-xk-krE"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="z2n-li-qFN">
@@ -1131,15 +1071,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="dKO-Gn-Eia"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="okm-js-8QJ"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="1gm-ph-e7E"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="C7z-Xu-ldb"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="ROk-W7-Woz"/>
                                 <userDefinedRuntimeAttributes>
@@ -1165,7 +1102,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="BEG-fd-voW"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YdZ-4a-5oH">
@@ -1177,15 +1113,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="72K-dM-tDP"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="bX6-oP-AwL"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="ErO-A4-Kag"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="z1A-88-gWr"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="D41-jE-vkn"/>
                                 <userDefinedRuntimeAttributes>
@@ -1211,7 +1144,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="uIH-Fc-18b"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="97f-P4-Tlt">
@@ -1223,15 +1155,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="r8n-TC-1Qj"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="0zf-BA-DZS"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="Mmy-Vx-mh3"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="ryj-NM-yXc"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="RhL-7R-66a"/>
                                 <userDefinedRuntimeAttributes>
@@ -1281,7 +1210,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="1vf-ir-xvH"/>
+                        <viewLayoutGuide key="safeArea" id="GQm-qA-Jq5"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -1309,7 +1238,7 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
-                                        <integer key="value" value="10"/>
+                                        <integer key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
@@ -1379,11 +1308,9 @@
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="Gpn-Y9-gbp"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="hta-8x-DC4"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="IeO-wJ-uct"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="F3L-6U-ZpC"/>
                                 <userDefinedRuntimeAttributes>
@@ -1409,7 +1336,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="2bB-aj-cqA"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hjs-IV-gHk">
@@ -1421,15 +1347,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="gD9-xc-Dlw"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="nsk-qr-pzS"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="awK-AR-PzT"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="tto-bt-z8H"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="mUM-rT-skg"/>
                                 <userDefinedRuntimeAttributes>
@@ -1455,7 +1378,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="KUy-4K-nDc"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Dd7-j5-cu9">
@@ -1467,15 +1389,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="v8J-Tu-1gp"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="1Jn-fa-4iz"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="uij-04-C1g"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="8N1-ii-rtU"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="6Ka-cF-eQw"/>
                                 <userDefinedRuntimeAttributes>
@@ -1501,7 +1420,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="3lV-k3-qh2"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="sch-Sw-ae2">
@@ -1513,15 +1431,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="i4t-d6-GvH"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="v4l-Td-hH5"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="qTp-e2-j5k"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="dYB-QZ-IIJ"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="MTc-kq-bal"/>
                                 <userDefinedRuntimeAttributes>
@@ -1547,7 +1462,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="035-iY-piM"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="qvk-xx-dzE">
@@ -1559,15 +1473,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="ecw-wS-rc4"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="7UP-zR-Js1"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="dD0-2n-iva"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="YF6-im-7B6"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="hzF-UA-Dv8"/>
                                 <userDefinedRuntimeAttributes>
@@ -1593,7 +1504,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="g0y-Xg-w64"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="KpM-yk-Bnw">
@@ -1605,15 +1515,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="ryH-Kq-GLz"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="fuq-gC-cHF"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="QTP-ZQ-hsF"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="4cf-5e-L8D"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="nFE-0S-FIR"/>
                                 <userDefinedRuntimeAttributes>
@@ -1639,7 +1546,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="sCZ-we-QU9"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="d5O-ei-3bt">
@@ -1651,15 +1557,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="4SC-hw-0r1"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="K9H-uY-eST"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="DGj-qI-FMu"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="7VZ-qM-yaB"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="9on-JU-fwu"/>
                                 <userDefinedRuntimeAttributes>
@@ -1685,7 +1588,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="3gD-JM-6tD"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xGD-Eb-g9e">
@@ -1697,15 +1599,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="OfD-DD-E34"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="chq-fQ-3UV"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="lKb-7U-5Ol"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="ScR-Dj-WbP"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="nFM-YK-REy"/>
                                 <userDefinedRuntimeAttributes>
@@ -1731,7 +1630,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Z8F-sZ-JoG"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="PIi-1H-nN3">
@@ -1743,15 +1641,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Mz2-RT-P05"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="M1p-7b-VJV"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="eAZ-AS-Pi5"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="CGz-4c-ffo"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="vGQ-Nx-ER1"/>
                                 <userDefinedRuntimeAttributes>
@@ -1773,7 +1668,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="5Jb-IP-j9P"/>
+                        <viewLayoutGuide key="safeArea" id="EAi-WI-1Pr"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -1801,7 +1696,7 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
-                                        <integer key="value" value="10"/>
+                                        <integer key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
@@ -1871,11 +1766,9 @@
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="HYn-Hq-oms"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="oPl-oX-pWW"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="hYK-Gx-KjJ"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="a2V-RY-fHH"/>
                                 <userDefinedRuntimeAttributes>
@@ -1901,7 +1794,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Q6B-iN-4x8"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GdA-UF-VpW">
@@ -1913,15 +1805,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="cYd-0p-yHe"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="NQP-3m-OOs"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="vVv-Y0-zH0"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="fdi-Kf-brc"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="P9m-qj-SAw"/>
                                 <userDefinedRuntimeAttributes>
@@ -1947,7 +1836,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Iao-CQ-6l0"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hiV-lG-dO1">
@@ -1959,15 +1847,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="yAu-Yp-8d4"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="epU-is-ATJ"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="N88-XV-29c"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="C1a-HT-Pwq"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="1h6-Xj-SZX"/>
                                 <userDefinedRuntimeAttributes>
@@ -1993,7 +1878,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="WGV-mo-y7Y"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="FJJ-Rb-GYz">
@@ -2005,15 +1889,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Tdk-WG-dXp"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="LFF-SS-gSn"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="zA6-h3-9Ph"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="gXe-de-VrU"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="fp0-Bp-kI9"/>
                                 <userDefinedRuntimeAttributes>
@@ -2039,7 +1920,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="bw2-Sb-Js2"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OS3-O9-sEb">
@@ -2051,15 +1931,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="FHB-IP-g0l"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="LUa-0x-Fsa"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="tQ0-Js-s9c"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="X63-xl-DGh"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="YUP-lE-FPs"/>
                                 <userDefinedRuntimeAttributes>
@@ -2085,7 +1962,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="aV3-n3-RUV"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WyQ-wz-kRY">
@@ -2097,15 +1973,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Pg2-wW-gPq"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="tZc-jz-Ob0"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="1fU-s4-QnK"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="I9M-Ht-jbF"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="KFX-ny-vsW"/>
                                 <userDefinedRuntimeAttributes>
@@ -2131,7 +2004,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="vQY-C9-BdB"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dvM-cB-N7j">
@@ -2143,15 +2015,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="ghN-tw-U58"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="whC-a4-dO9"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="Mrn-ny-FpY"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="fZ9-Rb-ygS"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="Mgr-bh-UJB"/>
                                 <userDefinedRuntimeAttributes>
@@ -2177,7 +2046,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="hO5-RM-dwO"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Lss-yc-Ikf">
@@ -2189,15 +2057,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Q22-OF-tgR"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="3i1-bF-TH0"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="XnJ-LO-oL6"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="ipj-dB-yBi"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="NRR-Wc-tzk"/>
                                 <userDefinedRuntimeAttributes>
@@ -2223,7 +2088,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="4DE-8V-lt6"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="n4C-xY-GuG">
@@ -2235,15 +2099,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="jg8-SQ-kgY"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="I62-On-Jqx"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="Fek-TF-6oG"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="v2O-yf-maS"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="iVC-QC-PmD"/>
                                 <userDefinedRuntimeAttributes>
@@ -2265,7 +2126,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="ET3-j6-IF8"/>
+                        <viewLayoutGuide key="safeArea" id="ZRz-h6-FsB"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -2293,7 +2154,7 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
-                                        <integer key="value" value="10"/>
+                                        <integer key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
@@ -2363,11 +2224,9 @@
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="bBJ-B3-ATd"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="YGE-N4-auD"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="8Zc-1F-zjR"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="Ofh-CW-iZg"/>
                                 <userDefinedRuntimeAttributes>
@@ -2393,7 +2252,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="uPN-O9-O6K"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7oj-y7-a9J">
@@ -2405,15 +2263,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="S2R-lu-wnw"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="sFv-el-zVT"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="jGR-OM-vsM"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="Lnp-5U-zCq"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="FKq-jq-5tm"/>
                                 <userDefinedRuntimeAttributes>
@@ -2439,7 +2294,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="cSw-cL-4Pa"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6AF-N7-8nk">
@@ -2451,15 +2305,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="fhu-Zf-7dq"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="9Ea-Wm-TAL"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="mqu-Sw-A3Y"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="zOn-7O-DSX"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="ttj-k7-AIg"/>
                                 <userDefinedRuntimeAttributes>
@@ -2485,7 +2336,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="zqk-OZ-wgM"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YOZ-sc-pNh">
@@ -2497,15 +2347,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="m9Y-3j-jTQ"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="6Gf-rd-GDn"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="1MZ-bR-TOI"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="I6F-EN-Soo"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="5as-jX-kks"/>
                                 <userDefinedRuntimeAttributes>
@@ -2531,7 +2378,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="cRa-S9-dzL"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WIl-aM-GGQ">
@@ -2543,15 +2389,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="aWQ-gN-Wbr"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="EZY-kZ-Fg2"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="NJo-lP-5pY"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="VCC-ys-wOf"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="oJP-fK-GgQ"/>
                                 <userDefinedRuntimeAttributes>
@@ -2577,7 +2420,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="ays-gZ-Zbg"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1ts-8B-ofV">
@@ -2589,15 +2431,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="EOA-YC-Rja"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="NkM-9g-S9m"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="ZWd-LO-mcx"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="bx0-qd-xRq"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="XwA-4Y-4NL"/>
                                 <userDefinedRuntimeAttributes>
@@ -2623,7 +2462,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Dms-d0-Rvw"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="plw-6B-H87">
@@ -2635,15 +2473,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="HRB-x8-8xY"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="qCc-fd-9Ni"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="se7-Yc-iLD"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="f9e-9k-dQy"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="yuo-sl-e8E"/>
                                 <userDefinedRuntimeAttributes>
@@ -2669,7 +2504,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="8Uj-SW-XXk"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Hke-gC-qMc">
@@ -2681,15 +2515,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="Rva-d4-FbZ"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="5Ym-nM-UjA"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="7kx-vf-i2Q"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="gTD-ZD-xXd"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="RwU-uJ-R8f"/>
                                 <userDefinedRuntimeAttributes>
@@ -2715,7 +2546,6 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="7rX-Pq-awL"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                             <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WAA-Jg-E8I">
@@ -2727,15 +2557,12 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
-                                                <viewLayoutGuide key="safeArea" id="hXf-UT-Xh1"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                             </view>
                                         </subviews>
-                                        <viewLayoutGuide key="safeArea" id="8vM-ZX-sNe"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
                                 </subviews>
-                                <viewLayoutGuide key="safeArea" id="E7S-dB-gbc"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="ZcG-hG-12F"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="Mz1-MW-IY7"/>
                                 <userDefinedRuntimeAttributes>
@@ -2757,7 +2584,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="k5l-0t-8fc"/>
+                        <viewLayoutGuide key="safeArea" id="Mgi-ww-guK"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -2863,7 +2690,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="kzF-wt-Q6u"/>
+                        <viewLayoutGuide key="safeArea" id="eTq-o5-Qtw"/>
                         <color key="backgroundColor" red="0.99215686270000003" green="0.96078431369999995" blue="0.90196078430000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -2969,7 +2796,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="m7r-yq-1si"/>
+                        <viewLayoutGuide key="safeArea" id="Zsx-Nd-tos"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -3075,7 +2902,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="tlh-Tt-O9z"/>
+                        <viewLayoutGuide key="safeArea" id="cih-ck-A1r"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -3181,7 +3008,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="Loj-we-TNG"/>
+                        <viewLayoutGuide key="safeArea" id="i4H-zo-g1m"/>
                         <color key="backgroundColor" red="0.99215686270000003" green="0.96078431369999995" blue="0.90196078430000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
@@ -3287,7 +3114,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
-                        <viewLayoutGuide key="safeArea" id="XTc-qz-PKj"/>
+                        <viewLayoutGuide key="safeArea" id="dw8-tV-rLC"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="tintColor" systemColor="labelColor"/>
                     </view>
